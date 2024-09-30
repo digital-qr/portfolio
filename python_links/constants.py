@@ -1,21 +1,21 @@
 # Cabecera
-GITHUB_URL="https://link.mundocode.dev/Github"
-X_URL="https://link.mundocode.dev/x"
-INSTAGRAM_URL="https://link.mundocode.dev/Instagram"
-TIKTOK_URL="https://link.mundocode.dev/Tiktok"
-LINKEDIN_URL="https://link.mundocode.dev/Linkedin"
+GITHUB_URL="https://github.com/digital-qr/"
+X_URL="https://x.com/_retired64"
+INSTAGRAM_URL="https://www.instagram.com/miguelplayas"
+TIKTOK_URL="https://www.tiktok.com/@_retired64"
+LINKEDIN_URL="https://www.menudigitaltijuana.xyz/"
 
 #Comunidad
-TWITCH_URL="https://link.mundocode.dev/Twitch"
-YOUTUBE_URL="https://link.mundocode.dev/Youtube"
-DISCORD_URL="https://link.mundocode.dev/Discord"
+TWITCH_URL="https://rrcellswebsite.vercel.app/"
+YOUTUBE_URL="https://minklash.site"
+DISCORD_URL="https://cmbr.dev"
 
 # Recursos y mas
-DRAGON_API="https://link.mundocode.dev/DragonBallApi"
-BLOG = "https://link.mundocode.dev/blog"
+DRAGON_API="https://www.esteticaebeybe.com/"
+BLOG = "https://precios.menudigitaltijuana.xyz/"
 
 # Footer
-REPOSITORY_URL="https://link.mundocode.dev/Codelinks"
+REPOSITORY_URL="https://wa.me/message/2FP74LDFRS33D1"
 
 # Contacto
-PORTFOLIO = "https://link.mundocode.dev/portafolio"
+PORTFOLIO = "https://wa.me/message/2FP74LDFRS33D1"
