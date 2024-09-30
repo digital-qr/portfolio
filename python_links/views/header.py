@@ -12,8 +12,8 @@ def header() -> rx.Component:
         rx.hstack(
             rx.avatar(
                 src="/perfil.jpg",
-                name="Juanppdev",
-                fallbac="JP", 
+                name="MiguelRamos",
+                fallbac="MR", 
                 size="7", 
                 radius="full",
                 padding="2px",
@@ -22,11 +22,11 @@ def header() -> rx.Component:
             ),
             rx.vstack(
                 rx.heading(
-                    "Juan Pablo",
+                    "Miguel Ramos",
                     size= "7",
                 ),
                 rx.text(
-                    "@Juanppdev",
+                    "+52 663 322 5758",
                     margin_top=Size.ZERO.value,
                     color=Color.PRIMARY.value
                 ),
@@ -61,15 +61,15 @@ def header() -> rx.Component:
             spacing="4"
         ),
         rx.flex(
-            info_text("+2", "Anos de Experiencia"),
+            info_text("+7", "Sitios web"),
             rx.spacer(),
-            info_text("+1", "Aplicaciones creadas"),
+            info_text("+3", "Menus Digitales creados"),
             rx.spacer(),
-            info_text("+5", "Seguidores"),
+            info_text("+549", "Seguidores"),
             width="100%",
         ),
         rx.text(
-            "A los 25 años, descubrí mi pasión por la programación a través de la plataforma de aprendizaje Platzi mientras navegaba por la web. Desde entonces, me he inmerso en este mundo en constante evolución, explorando nuevas tecnologías y conceptos diariamente. Aunque mi enfoque inicial fue en la creación de páginas web, he ampliado mis horizontes explorando diferentes lenguajes y disciplinas.",
+            "¡Impulsa tu negocio al siguiente nivel con una página web profesional y personalizada! Como creador y desarrollador de sitios web estáticos completos, te ofrezco una solución ideal para hacer crecer tu negocio y automatizar tus ventas. Con un formulario integrado, podrás reducir el tiempo de asesoría a tus clientes, facilitando ventas rápidas y efectivas. Muestra tu catálogo al mundo de una manera única y profesional. No pierdas más oportunidades de venta, ¡haz que tu negocio destaque con un sitio web que trabaje por ti las 24 horas!.",
             color=TextColor.BODY.value,
             font_size=Size.DEFAULT.value,
         ),
