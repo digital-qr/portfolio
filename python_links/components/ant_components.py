@@ -3,8 +3,8 @@ import reflex as rx
 class FloatButton(rx.Component):
     library = "antd"
     tag= "FloatButton"
-    icon = rx.image(src="/icons/donation.svg")
-    href= "https://buymeacoffee.com/juanppdev"
+    icon = rx.image(src="/icons/whatsapp.svg")
+    href= "https://wa.me/message/2FP74LDFRS33D1"
     target= "_blank"
     badge = { "dot": True } 
 
