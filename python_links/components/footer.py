@@ -16,7 +16,7 @@ def footer() -> rx.Component:
             rx.link(
                 rx.box(
                     f"© 2024-{datetime.date.today().year} ",
-                    rx.chakra.span("Juanppdev by MundoCode", color=Color.PRIMARY.value),
+                    rx.chakra.span("Creador Oficial Miguel Ramos", color=Color.PRIMARY.value),
                     " v1.",
                     padding_top=Size.DEFAULT.value
                 ),
@@ -35,7 +35,7 @@ def footer() -> rx.Component:
                     is_external=True
                 ),
                 rx.text(
-                    "BUILDING SOFTWARE WITH ♥ FROM STADE TO THE WORLD.",
+                    "SITIOS WEB CON ♥ PARA TODO TIPO DE NEGOCIOS.",
                     font_size=Size.MEDIUM.value,
                     margin_top=Size.ZERO.value
                 )
